@@ -21,10 +21,10 @@
 <details open>
  <summary>...</summary>
  
- * **#1 - REQ1** - O sistema deve permitir o gerenciamento (Create, Recover, Update e Delete - CRUD) Entrada e Saída de valores 
- * **REQ2** - O sistema deve controlar o acesso através de login e senha. Os usuários do sistema serão do tipo administrador.
- * **REQ3** - O sistema deve permitir o geração de informativos, a notificação dos usuários através de email.
- * **REQ4** - O sistema deve permitir o geração de relatórios com gráficos enviado através de email.
- * **REQ5** - O sistema deve permitir a criação de categorias de despesas.
- * **REQ6** - O sistema deve permitir criar perfil de investidor
+ * **[Issue #1](https://github.com/Projeto-Engenharia-de-Software-LC/.github/issues/1) - REQ1:** O sistema deve permitir o gerenciamento (Create, Recover, Update e Delete - CRUD) Entrada e Saída de valores 
+ * **[Issue #2](https://github.com/Projeto-Engenharia-de-Software-LC/.github/issues/2) - REQ2:** O sistema deve controlar o acesso através de login e senha. Os usuários do sistema serão do tipo administrador.
+ * **[Issue #3](https://github.com/Projeto-Engenharia-de-Software-LC/.github/issues/3) - REQ3:** O sistema deve permitir o geração de informativos, a notificação dos usuários através de email.
+ * **[Issue #4](https://github.com/Projeto-Engenharia-de-Software-LC/.github/issues/4) - REQ4:** O sistema deve permitir o geração de relatórios com gráficos enviado através de email.
+ * **[Issue #5](https://github.com/Projeto-Engenharia-de-Software-LC/.github/issues/5) - REQ5:** O sistema deve permitir a criação de categorias de despesas.
+ * **[Issue #6](https://github.com/Projeto-Engenharia-de-Software-LC/.github/issues/6) - REQ6:** O sistema deve permitir criar perfil de investidor
  </details >
