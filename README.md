@@ -21,7 +21,7 @@
 <details open>
  <summary>...</summary>
  
- * **REQ1** - O sistema deve permitir o gerenciamento (Create, Recover, Update e Delete - CRUD) Entrada e Saída de valores 
+ * **#1 - REQ1** - O sistema deve permitir o gerenciamento (Create, Recover, Update e Delete - CRUD) Entrada e Saída de valores 
  * **REQ2** - O sistema deve controlar o acesso através de login e senha. Os usuários do sistema serão do tipo administrador.
  * **REQ3** - O sistema deve permitir o geração de informativos, a notificação dos usuários através de email.
  * **REQ4** - O sistema deve permitir o geração de relatórios com gráficos enviado através de email.
