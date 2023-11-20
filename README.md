@@ -5,7 +5,7 @@
  <summary>...</summary>
 
  * Endryo Pablo - endryo.pablo.vieita@gmail.com
- * Lucuas Henrique - lucas.hlsilva@ufrpe.br
+ * Lucas Henrique - lucas.hlsilva@ufrpe.br
  * Walquiria Santos - walquiriawps@gmail.com
  * Rubson Hebrain de Lima Freire - limarubson@hotmail.com
  * Vinicius Silva - viniciusfelipe.xd@gmail.com
@@ -13,7 +13,7 @@
  * Fernando santos - nandobink6@gmail.com
  * Lucas Emmanuel - lucas.emmanuel@ufrpe.br
  * Vitor Emmanoel - vitor.emmanoel@ufrpe.br
- * 
+ * Juliana Venancio - juliana.venancio@ufrpe.br
 </details>
 
 ## Requisitos do projeto
